@@ -1,4 +1,4 @@
-# bike-share Data Set
+# bike-share DataSet
 This data contains daily bike sharing data. Following are the columns 
 
 - instant: record index
