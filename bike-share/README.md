@@ -1,7 +1,7 @@
 # bike-share DataSet
 
 ### File link 
-bike-share.csv  -> [File link ](https://github.com/karthikcs/machine-learning-coe/blob/master/bike-share/bike-share.csv)
+bike-share.csv  -> [File link ](https://github.com/karthikcs/machine-learning-coe/raw/master/bike-share/bike-share.csv)
 
 ### This data contains daily bike sharing data. Following are the columns 
 
