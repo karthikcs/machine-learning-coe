@@ -3,6 +3,8 @@
 ### File link 
 bike-share.csv  -> [File link ](https://github.com/karthikcs/machine-learning-coe/raw/master/bike-share/bike-share.csv)
 
+Right click and download the file if you want
+
 ### This data contains daily bike sharing data. Following are the columns 
 
 - instant: record index
