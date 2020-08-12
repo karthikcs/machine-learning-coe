@@ -13,7 +13,7 @@ Right click and download the file if you want
 - yr : year (0: 2011, 1:2012)
 - mnth : month ( 1 to 12)
 - hr : hour (0 to 23)
-- holiday : weather day is holiday or not (extracted from [Web Link])
+- holiday : weather day is holiday or not.  1 means Holiday  and 0 defines - Not a holiday
 - weekday : day of the week
 - workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
 - weathersit :
