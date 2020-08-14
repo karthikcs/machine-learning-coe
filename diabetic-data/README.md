@@ -1,6 +1,6 @@
 # Diabetic Data
 
-Follwoing the columns
+Follwoing are the columns
 
 - No. preg	  - Number of times pregnant
 - Plasma Glucose	- Plasma glucose concentration a 2 hours in an oral glucose tolerance test
