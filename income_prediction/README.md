@@ -21,7 +21,7 @@ Once the training is completed, use the test file to predict the income class
 - `native-country`: Native Country (United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands)
 
 **Target Variable**
-- `income`: Income Class (<=50K, >50K)
+- `income`: Income Class (<=50K, >50K) 
 
 ## Files in the folder
 
@@ -32,8 +32,11 @@ Once the training is completed, use the test file to predict the income class
 
 1. Analyse the data and features 
 2. Clean the data
-3. Split the data into Training and Testing datasets
+3. Split the data into training and testing datasets
 3. Select the model and train using training dataset
 4. Validate with your model with Testing dataset
-5. Predict the Income Group for the data in the file `census_predict.csv`
+5. Predict the Income Class for the data in the file `census_predict.csv`
 6. Send the predictions back through email
+
+## Scoring
+As this is a binary classification, let us use `accuracy` as the metrics to get the score. 
